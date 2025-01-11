@@ -149,7 +149,7 @@ flex-direction: column;
     width: 30px;
     border: 2px solid black;
     border-radius: 50%;
-    background-image: url("../images/play_buttn.jpg");
+    background-image: url("../play_buttn.jpg");
     background-size: cover;
     position: absolute;
   top: 995px;
@@ -226,42 +226,42 @@ flex-direction: column;
   }
   
   #lower_pic_box_1{
-    background-image: url("../images/yt-1.png");
+    background-image: url("../yt-1.png");
     background-size: cover;
   }
   #lower_pic_box_2{
-    background-image: url("../images/yt-2.png");
+    background-image: url("../yt-2.png");
     background-size: cover;
   }
   
   #lower_pic_box_3{
-    background-image: url("../images/yt-3.png");
+    background-image: url("../yt-3.png");
     background-size: cover;
   }
   
   #lower_pic_box_4{
-    background-image: url("../images/yt-4.png");
+    background-image: url("../yt-4.png");
     background-size: cover;
   }
   
   #lower_pic_box_5{
-    background-image: url("../images/yt-5.png");
+    background-image: url("../yt-5.png");
     background-size: cover;
   }
   
   #lower_pic_box_6{
-    background-image: url("../images/yt-6.png");
+    background-image: url("../yt-6.png");
     background-size: cover;
     
   }
 
   #lower_pic_box_7{
-    background-image: url("../images/yt-7.png");
+    background-image: url("../yt-7.png");
     background-size: cover;
   }
 
   #lower_pic_box_8{
-    background-image: url("../images/yt-8.png");
+    background-image: url("../yt-8.png");
     background-size: cover;
   }
   

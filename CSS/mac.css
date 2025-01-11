@@ -148,7 +148,7 @@ position: relative;
   width: 50px;
   border: 2px solid black;
   border-radius: 50%;
-  background-image: url("../images/play_buttn.jpg");
+  background-image: url("../play_buttn.jpg");
   background-size: cover;
   position: absolute;
 top: 930px;
@@ -225,31 +225,31 @@ overflow-x: auto;
 }
 
 #lower_pic_box_1{
-  background-image: url("../images/tiktok-1.png");
+  background-image: url("../tiktok-1.png");
   background-size: cover;
 }
 #lower_pic_box_2{
-  background-image: url("../images/tiktok-2.png");
+  background-image: url("../tiktok-2.png");
   background-size: cover;
 }
 
 #lower_pic_box_3{
-  background-image: url("../images/tiktok-3.png");
+  background-image: url("../tiktok-3.png");
   background-size: cover;
 }
 
 #lower_pic_box_4{
-  background-image: url("../images/tiktok-4.png");
+  background-image: url("../tiktok-4.png");
   background-size: cover;
 }
 
 #lower_pic_box_5{
-  background-image: url("../images/tiktok-5.png");
+  background-image: url("../tiktok-5.png");
   background-size: cover;
 }
 
 #lower_pic_box_6{
-  background-image: url("../images/tiktok-6.png");
+  background-image: url("../tiktok-6.png");
   background-size: cover;
 }
 

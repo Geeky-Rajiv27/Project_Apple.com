@@ -104,14 +104,14 @@ padding: 20px;
 
 }
 #images_1{
-  background-image: url("../images/macbookair.jpeg");
+  background-image: url("../macbookair.jpeg");
   background-size: cover;
   border-radius: 8px;
   mix-blend-mode: color-burn;
 }
 
 #images_2{
-  background-image: url("../images/iphone_logo.jpg");
+  background-image: url("../iphone_logo.jpg");
   background-size: contain;
   border-radius: 8px;
   mix-blend-mode: color-burn;
@@ -119,47 +119,47 @@ padding: 20px;
 }
 
 #images_3{
-  background-image: url("../images/ipads.png");
+  background-image: url("../ipads.png");
   background-size: cover;
   border-radius: 8px;
 }
 
 #images_4{
-  background-image: url("../images/Apple_Watch_Series_10.webp");
+  background-image: url("../Apple_Watch_Series_10.webp");
   background-size: cover;
   border-radius: 8px;
   mix-blend-mode: color-burn;
 }
 
 #images_5{
-  background-image: url("../images/apple_vision_pro.jpg");
+  background-image: url("../apple_vision_pro.jpg");
   background-size: cover;
   border-radius: 8px;
   mix-blend-mode: color-burn;
 }
 
 #images_6{
-  background-image: url("../images/airpod.jpg");
+  background-image: url("../airpod.jpg");
   background-size: cover;
   border-radius: 8px;
  mix-blend-mode: color-burn;
 }
 
 #images_7{
-  background-image: url("../images/airtag.png");
+  background-image: url("../airtag.png");
   background-size: cover;
   border-radius: 8px;
 }
 
 #images_8{
-  background-image: url("../images/apple_tv.jpeg");
+  background-image: url("../apple_tv.jpeg");
   background-size: contain;
   border-radius: 8px;
   mix-blend-mode: color-burn;
 }
 
 #images_9{
-  background-image: url("../images/homepod.png");
+  background-image: url("../homepod.png");
   background-size: cover;
   border-radius: 8px;
   mix-blend-mode: color-burn;
@@ -234,26 +234,26 @@ overflow-x: auto;
 }
 
 #lower_pic_box_1{
-  background-image: url("../images/suggestion_box_1.jpeg");
+  background-image: url("../suggestion_box_1.jpeg");
   background-size: cover;
 }
 #lower_pic_box_2{
-  background-image: url("../images/suggestion_box_2.jpeg");
+  background-image: url("../suggestion_box_2.jpeg");
   background-size: cover;
 }
 
 #lower_pic_box_3{
-  background-image: url("../images/suggestion_box_3.jpeg");
+  background-image: url("../suggestion_box_3.jpeg");
   background-size: cover;
 }
 
 #lower_pic_box_4{
-  background-image: url("../images/suggestion_box_4.jpeg");
+  background-image: url("../suggestion_box_4.jpeg");
   background-size: cover;
 }
 
 #lower_pic_box_5{
-  background-image: url("../images/suggestion_box_5.jpeg");
+  background-image: url("../suggestion_box_5.jpeg");
   background-size: cover;
 }
 /* ----------(CSS part for the footer of the store.html) */

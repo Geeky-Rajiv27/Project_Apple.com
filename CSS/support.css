@@ -76,7 +76,7 @@ body{
     height: 600px;
     width: 100%;
     border: 1px solid black;
-    background-image: url("../images/support_main_img.jpg");
+    background-image: url("../support_main_img.jpg");
     background-size: cover;
   }
 

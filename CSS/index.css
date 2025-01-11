@@ -76,7 +76,7 @@ ul {
   /* justify-content: center;
     align-items: center; */
   justify-content: flex-start;
-  background-image: url("../images/image_1.jpg");
+  background-image: url("../image_1.jpg");
   background-size: cover;
 }
 .image-1_content {
@@ -142,7 +142,7 @@ ul {
   /* justify-content: center;
     align-items: center; */
   justify-content: flex-start;
-  background-image: url("../images/image_2.jpg");
+  background-image: url("../image_2.jpg");
   background-size: cover;
 }
 .image-2_content {
@@ -214,7 +214,7 @@ ul {
    align-items: center; */
   justify-content: flex-start;
   /* background-image: linear-gradient(#3474B5,white); */
-  background-image: url("../images/image_3.png");
+  background-image: url("../image_3.png");
   background-size: cover;
 }
 /* -----------------(body > main_content_4)----------------------------- */
@@ -233,7 +233,7 @@ ul {
   margin: 5px;
 }
 #box_watch_series_10 {
-  background-image: url("../images/Apple_Watch_Series_10.webp");
+  background-image: url("../Apple_Watch_Series_10.webp");
   background-size: cover;
   display: flex;
   flex-direction: column;
@@ -338,7 +338,7 @@ ul {
 .lower {
   height: 60%;
   width: 100%;
-  background-image: url("../images/watch-ultra_2.jpg");
+  background-image: url("../watch-ultra_2.jpg");
   background-size: cover;
 }
 #title_ultra {
@@ -413,7 +413,7 @@ ul {
 /* -----------------(AirPods Pro 2)----------------------------- */
 
 #box_airpod_pro2 {
-  background-image: url("../images/airpods_pro_2.jpg");
+  background-image: url("../airpods_pro_2.jpg");
   background-size: cover;
   display: flex;
   flex-direction: column;
@@ -451,7 +451,7 @@ ul {
 }
 /* -----------------(AirPods  4)----------------------------- */
 #box_airpod_4 {
-  background-image: url("../images/airpods_4.jpg");
+  background-image: url("../airpods_4.jpg");
   background-size: cover;
   display: flex;
   flex-direction: column;
@@ -510,7 +510,7 @@ ul {
 .lower_mac {
   height: 60%;
   width: 100%;
-  background-image: url("../images/macbookair.jpeg");
+  background-image: url("../macbookair.jpeg");
   background-size: cover;
 }
 #title_mac {
@@ -595,7 +595,7 @@ ul {
 .lower_trade {
   height: 60%;
   width: 100%;
-  background-image: url("../images/trade.png");
+  background-image: url("../trade.png");
   background-size: cover;
 }
 #title_trade {
@@ -664,7 +664,7 @@ ul {
   height: 100%;
   width: 1000px;
   background-color: red;
-  background-image: url("../images/vedio_1.jpg");
+  background-image: url("../vedio_1.jpg");
   background-size: cover;
   display: flex;
   flex-direction: column;
@@ -698,7 +698,7 @@ ul {
   height: 100%;
   width: 1000px;
   background-color: red;
-  background-image: url("../images/v-2.jpg");
+  background-image: url("../v-2.jpg");
   background-size: cover;
   display: flex;
   flex-direction: column;
@@ -728,7 +728,7 @@ ul {
   height: 100%;
   width: 1000px;
   background-color: red;
-  background-image: url("../images/v-3.webp");
+  background-image: url("../v-3.webp");
   background-size: cover;
 }
 
@@ -738,7 +738,7 @@ ul {
   height: 100%;
   width: 1000px;
   background-color: red;
-  background-image: url("../images/v-4.jpg");
+  background-image: url("../v-4.jpg");
   background-size: cover;
 }
 /* -------------(about movie 5)------------------- */
@@ -747,7 +747,7 @@ ul {
   height: 100%;
   width: 1000px;
   background-color: red;
-  background-image: url("../images/v-5.webp");
+  background-image: url("../v-5.webp");
   background-size: cover;
 }
 /* -------------(about movie 6)------------------- */
@@ -756,7 +756,7 @@ ul {
   height: 100%;
   width: 1000px;
   background-color: red;
-  background-image: url("../images/v-6.png");
+  background-image: url("../v-6.png");
   background-size: cover;
 }
 /* -------------(footer)------------------- */
